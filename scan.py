@@ -1,3 +1,7 @@
+# BOUSSOURA Mohamed Cherif , Boufarik-Blida-ALGERIA , 11:24 pm 04-12-2020
+
+# This code run with Python2
+
 from scrapy.all import Ether,ARP,srp,conf
 import sys
 import time
